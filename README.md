@@ -1,2 +1,1 @@
-# vrp-xfer
-repo claiming the name freed by a transfer
+attacker content in transferred-away name
